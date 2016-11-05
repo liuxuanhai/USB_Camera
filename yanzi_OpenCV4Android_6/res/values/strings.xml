@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">opencv4android_LYR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_desc">image description</string>
+    <string name="str_start_preview">打开</string>
+    <string name="str_start_record">录制</string>
+
+</resources>

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//jni/h264encoder.cpp=UTF-8
+encoding//jni/h264encoder.h=UTF-8
+encoding//jni/video_capture.cpp=UTF-8
+encoding//jni/video_process.cpp=UTF-8
+encoding//jni/video_process.h=UTF-8
+encoding//jni/video_writer.cpp=UTF-8
